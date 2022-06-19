@@ -5,7 +5,7 @@
 * 
 *  Name: Le Tuan Anh Nguyen Student ID: 132792201 Date: 18th June, 2022
 *
-*  Online (Heroku) Link: https://git.heroku.com/blooming-coast-42936.git
+*  Online (Heroku) Link: https://blooming-coast-42936.herokuapp.com/
 *
 ********************************************************************************/  
 const { rejects } = require("assert");
